@@ -4,10 +4,10 @@
 # Dippid Sender
 Simulates the acceleration and the button_1 push/press of a smartPhone using DIPPID
 It randomly switches between:
-    - "idle"    : Simulates Smartphone laying around, practically just noise
-    - "looking" : Holding the Smartphone in hand and looking at it
-    - "shake"   : Shaking the phone with light to medium intensity in random directions
-    - "movement": Moving the smartphone or e.g. having it in the pocket
+- "idle"    : Simulates Smartphone laying around, practically just noise
+- "looking" : Holding the Smartphone in hand and looking at it
+- "shake"   : Shaking the phone with light to medium intensity in random directions
+- "movement": Moving the smartphone or e.g. having it in the pocket
 At random intervals "button_1" gets pressed
 
 # 2d Game
